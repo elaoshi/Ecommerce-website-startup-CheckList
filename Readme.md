@@ -97,9 +97,5 @@
 - [ ] Bulk edit product information
 - [ ] Load balance
 
-## Chart 
-```mermaid
-graph TB
-A[Basic Information] --> B(Basic security)
-B --> C(Production Env)
-```
+## Contact
+Welcome issue commit to me , Thanks
