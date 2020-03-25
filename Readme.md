@@ -54,6 +54,9 @@
 	- [ ] Product price before GST
 	- [ ] GST / Tax rate
 	- [ ] Unit
+	- [ ] Weight
+	- [ ] Size: Width x Length x Height
+	- [ ] Shipping fee
 	- [ ] Product description
 	- [ ] Product detail images
 	- [ ] Product package images
