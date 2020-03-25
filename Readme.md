@@ -49,12 +49,14 @@
 	- [ ] SKU
 	- [ ] Retail price
 	- [ ] Sale price
+	- [ ] Profit percentage
+	- [ ] Sale channels commission rate
+	- [ ] GST / Tax rate
 	- [ ] Unit
 	- [ ] Product description
 	- [ ] Product detail images
 	- [ ] Product package images
 	- [ ] Product price before GST
-	- [ ] GST / Tax rate
 	- [ ] Order management
 	- [ ] Finance orders report quarterly
 
