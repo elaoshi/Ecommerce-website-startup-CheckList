@@ -51,14 +51,14 @@
 	- [ ] Sale price
 	- [ ] Profit percentage
 	- [ ] Sale channels commission rate
+	- [ ] Product price before GST
 	- [ ] GST / Tax rate
 	- [ ] Unit
 	- [ ] Product description
 	- [ ] Product detail images
 	- [ ] Product package images
-	- [ ] Product price before GST
-	- [ ] Order management
-	- [ ] Finance orders report quarterly
+- [ ] Order management
+- [ ] Finance orders report quarterly
 
 
 
